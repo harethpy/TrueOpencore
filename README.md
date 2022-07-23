@@ -1,15 +1,7 @@
 # TrueOpencore
-OpenCore configurator that respects Opencore's configurations
+An OpenCore application that creates and generates base EFI, With advanced troubleshooting  
+from the Opencore's guide
 
-## Purpose
-Configurator that is well-written and respects Opencore's configuration  
-No corruptions
-
-**Main-key features**. 
-- [ ] Well-written Config reader
-- [ ] SMBios Generator
-- [ ] Auto Validate
-- [ ] Integrated troubleshooting ( Limited )
 
 ## Support
 Support for integrated-troubleshooting.  
